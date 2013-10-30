@@ -68,6 +68,10 @@
          "id" : "http://adlnet.gov/expapi/verbs/progressed",
          "display" : {"en-US" : "progressed"}
       },
+      "read" : {
+         "id" : "http://adlnet.gov/expapi/verbs/read",
+         "display" : {"en-US" : "read"}
+      },
       "registered" : {
          "id" : "http://adlnet.gov/expapi/verbs/registered",
          "display" : {"en-US" : "registered"}
@@ -96,6 +100,10 @@
          "id" : "http://adlnet.gov/expapi/verbs/terminated",
          "display" : {"en-US" : "terminated"}
       },
+      "viewed" : {
+         "id" : "http://adlnet.gov/expapi/verbs/viewed",
+         "display" : {"en-US" : "viewed"}
+      }
       "voided" : {
          "id" : "http://adlnet.gov/expapi/verbs/voided",
          "display" : {"en-US" : "voided"}
