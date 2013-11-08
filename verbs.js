@@ -103,7 +103,7 @@
       "viewed" : {
          "id" : "http://adlnet.gov/expapi/verbs/viewed",
          "display" : {"en-US" : "viewed"}
-      }
+      },
       "voided" : {
          "id" : "http://adlnet.gov/expapi/verbs/voided",
          "display" : {"en-US" : "voided"}
